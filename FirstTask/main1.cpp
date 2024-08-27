@@ -53,4 +53,5 @@ int main() {
     std::cin >> delNum;
     numbers = delete_num(numbers, delNum);
     print(numbers);
+    return 0;
 }
